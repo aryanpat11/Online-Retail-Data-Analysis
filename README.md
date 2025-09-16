@@ -59,16 +59,6 @@ Developed multiple Tableau dashboards:
 
 ---
 
-## 🚀 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   ```
-2. Open the `TASK3Tablue.twb` file in **Tableau Desktop**.  
-3. Explore the dashboards and modify filters as needed.  
-
----
-
 ## 📌 Internship Context  
 This project was developed as part of the **Tata Virtual Internship** to demonstrate skills in:  
 - Data preprocessing & cleaning  

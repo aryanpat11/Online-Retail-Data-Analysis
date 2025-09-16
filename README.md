@@ -68,6 +68,5 @@ This project was developed as part of the **Tata Virtual Internship** to demonst
 ---
 
 ## 👤 Author  
-**Aryan Roshan Patil**  
-- B.Tech CSE (AI), Parul University  
+**Aryan Roshan Patil**    
 - [LinkedIn](https://www.linkedin.com/in/aryan-patil-245717286/)  

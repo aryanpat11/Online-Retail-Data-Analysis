@@ -36,12 +36,7 @@ Developed multiple Tableau dashboards:
 ### 4. Key Insights  
 - Identified **seasonal peaks** in sales.  
 - Highlighted **top product categories** driving majority of revenue.  
-- Found **potential regions** for expansion.  
-
----
-
-## 📸 Dashboard Snapshots  
-*(You can add screenshots of your Tableau dashboards here once exported as images.)*  
+- Found **potential regions** for expansion.
 
 ---
 
@@ -60,7 +55,7 @@ Developed multiple Tableau dashboards:
 ---
 
 ## 📌 Internship Context  
-This project was developed as part of the **Tata Virtual Internship** to demonstrate skills in:  
+This project was developed as part of the **Virtual Internship** to demonstrate skills in:  
 - Data preprocessing & cleaning  
 - Interactive dashboard design in Tableau  
 - Business-oriented storytelling with data  
